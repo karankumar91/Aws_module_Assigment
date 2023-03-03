@@ -1,0 +1,6 @@
+bucket_name="karan-s3"
+My_tag = "module-s3"
+vpc="10.0.0.0/16"
+subnet-1="10.0.1.0/24"
+subnet-2="10.0.2.0/24"
+ec2_instance="Aws_instance-1"
